@@ -19,7 +19,7 @@
           </div>
           <div class="card-body">
             <p>Welcome! You have successfully logged in.
-            <%=request.getAttribute("username") %>
+            
             </p>
           </div>
         </div>
